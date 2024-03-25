@@ -21,4 +21,4 @@ function updateRecords(id, prop, value) {
   return collection;
 }
 
-console.log(updateRecords(5439, "artist", "ABBA"));
+console.log(updateRecords(5439, "artist", "lol"));
